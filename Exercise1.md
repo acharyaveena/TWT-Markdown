@@ -1,4 +1,5 @@
 # Tech Writing Project
+Technical Writing Markdown exercise
 
 - [Tech Writing Project](#tech-writing-project)
   - [Introducing the GigaVUE‑HC3 Chassis](#introducing-the-gigavuehc3-chassis)
